@@ -1,8 +1,8 @@
 <a href="https://github.com/bprinzo/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=bprinzo&show_icons=true&theme=Gradient" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=bprinzo&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/bprinzo/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bprinzo&layout=compact&theme=dracula&langs_count=8"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bprinzo&layout=compact&theme=tokyonight &langs_count=8"/>
 </a>
 
 <!--
