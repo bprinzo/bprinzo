@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <a href="https://github.com/bprinzo/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=bprinzo&show_icons=true&theme=dracula" />
 </a>
